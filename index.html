@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Cesar Cypher Encryption</title>
+  <link rel="shortcut icon" href="https://i.imgur.com/zIkfIJ1.png">
+  <link href="ISN.css" type="text/css" rel="stylesheet">
+ </head>
+ <body>
+   <div class="page">
+     <div class="title">
+       <h1>CCE using javascript</h1>
+     </div>
+       <div class="main">
+         <form action="#">
+           <label for="text">Text:</label>
+         </br>
+         	<textarea id="textForm" placeholder="This is where you put the text you want to see encrypted." style="width: 450px; height: 200px;"></textarea>
+         </br>
+          <label for="key">Key:</label>
+         	<input type="number" id="key" style="width:4em;"/>
+         </br>
+          <button onclick="verifyKey(true)">Encrypt</button>
+          <button onclick="verifyKey(false)">Decrypt</button>
+         <div class="info">
+           <h3>Informations:</h3>
+           <ul>
+            <li>Only uppercase and lowercase letter will be shifted, everything else won't be shifted.</li>
+            <li>Your key <b>must</b> be an integer between 0 and 25, if it's not an integer it will be rounded.</li>
+            <li>A lot of things are logged in the console, you can see it if you press F12</li>
+           </ul>
+         </div>
+       </div>
+   </div>
+   <script src="form.js" ></script>
+  </body>
+</html>
