@@ -1,4 +1,4 @@
-# Corbeau
+ers# Corbeau
 ### A website page using javascript to perform various actions related to cryptography :key:
 **Traduction de ce readme en français un peu plus bas ! French translation of this Readme lower on this page!**
 
@@ -33,32 +33,32 @@ We don't know if we will have the time to do everything on the checklist, but we
 We are doing this project under the [The Unlicence](http://unlicense.org/) You are free to do whatever you want with this code.
 
 # Corbeau
-### Un site web qui utilise Javascript pour effectuer divers actions lié a la cryptographie :key:
+### Un site web qui utilise Javascript pour effectuer diverses actions liées à la cryptographie :key:
 
 Ceci est un projet que je fais en commun avec une amie, il s'agit de notre projet de fin d'année en ISN (Informatique et Sciences du Numérique) Notre but avec ce projet est de créer une page web simple ou les gens peuvent chiffrer et déchiffrer du texte avec le Chiffre de César et le Chiffre de Vigenere :closed_lock_with_key:
 
-Ce site devrais aussi normalement fournir quelques outils pour aider les gens a déchiffrer du texte chiffré avec le chiffre de César ou de Vigenere. 
+Ce site devrait aussi normalement fournir quelques outils pour aider les gens a déchiffrer du texte chiffré avec le chiffre de César ou de Vigenere. 
 Pour ce faire nous allons essayer d'utiliser uniquement *Javascript, HTML et CSS.*   
 
-Nous essayons aussi de commenter notre code le plus possible pour le rendre le plus facile a comprendre possible, de plus nous essayons de logger un maximun d'informations dans la console car 1) c'est utile pour corriger les érreurs que nous fesons 2) et ça rend super propre dans la console ! :sunglasses:
+Nous essayons aussi de commenter notre code le plus possible pour le rendre le plus facile a comprendre possible, de plus nous essayons de logger un maximun d'informations dans la console car 1) c'est utile pour corriger les erreurs que nous faisons 2) et ça rend super propre dans la console ! :sunglasses:
 
-Nous somme des amateurs qui n'ont pas beaucoup d'expérience avec la programation, veuillez comprendre que notre code ne sera probablement pas d'une extremement grande qualitée.
+Nous somme des amateurs qui n'ont pas beaucoup d'expérience avec la programmation, veuillez comprendre que notre code ne sera probablement pas d'une extrêmement grande qualitée.
 
 #### Liste de chose a faire:
 - [x] Créer un page web simple pour chiffrer/déchiffrer du texte avec le chiffre de César.
 - [ ] Faire en sorte de pouvoir chiffrer/déchiffrer du texte avec le chiffre de Vigenere.
-- [ ] Créer un outil qui aurai pour but de faire une analyse de fréquence sur un texte chiffré.
-- [ ] Créé un outil pour "brute force" le chiffre de César: donc montrer le texte déchiffré avec les 26 clés différentes pour que le client voit quelle clé est la bonne.
-- [ ] Créé un algorithme qui pourrais détécter des mots courrament utilisé en anglais pour trouver automatiquement quelle est la bonne clé en fonctions du texte déchiffré avec les 26 clés différentes précédement.
-- [ ] Créé un outil qui pourrait effectuer une attaque par dictionnaire basique sur un texte chiffré avec le chiffre de Vigenere.
-- [ ] Créé une jolie page qui s'addapte a la taille de tout les appareils avec bootstrap.
-- [ ] Traduire les commentaire dans le code et le site en français.
+- [ ] Créer un outil qui aurait pour but de faire une analyse de fréquence sur un texte chiffré.
+- [ ] Créer un outil pour "brute force" le chiffre de César: donc montrer le texte déchiffré avec les 26 clés différentes pour que le client voit quelle clé est la bonne.
+- [ ] Créer un algorithme qui pourrais détécter des mots couramment utilisés en anglais pour trouver automatiquement quelle est la bonne clé en fonctions du texte déchiffré avec les 26 clés différentes précédement.
+- [ ] Créer un outil qui pourrait effectuer une attaque par dictionnaire basique sur un texte chiffré avec le chiffre de Vigenere.
+- [ ] Créer une jolie page qui s'adapte a la taille de tout les appareils avec bootstrap.
+- [ ] Traduire les commentaires dans le code et le site en français.
 - [X] Traduire ce Readme en français.
 
 Nous ne savons pas si nous aurons le temps de faire tout cela mais nous allons essayer !
 
 #### Licence
-Ce projet est libre de droit et sous la liscence [The Unlicence](http://unlicense.org/) Vous etes libre de faire tout ce que vous voulez avec ce code.
+Ce projet est libre de droit et sous la licence [The Unlicence](http://unlicense.org/) Vous êtes libres de faire tout ce que vous voulez avec ce code.
 
 
 
